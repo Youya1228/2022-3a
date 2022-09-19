@@ -9,10 +9,13 @@
 ![NKUST](nkust.jpg "nkust")
 
 - [ ] todo list
-- [×] done
+- [x] done
+
+```python
 
 s = "Python"
 print s
 
+```
 
 
