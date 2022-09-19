@@ -81,6 +81,6 @@ alert (s);
 | 1            | 2              |3         |
 
 
-[![Microservices + Events + Docker = A Perfect Trio](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Microservices + Events + Docker = A Perfect Trio")
+[![Microservices + Events + Docker = A Perfect Trio](video.png)](https://www.youtube.com/watch?v=sSm2dRarhPo "Microservices + Events + Docker = A Perfect Trio")
 
 
