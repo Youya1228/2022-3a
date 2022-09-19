@@ -85,7 +85,7 @@ alert (s);
 
 | **Markdown** | **Less**   | **Pretty**  |
 | :---------   |:-----------| :--------   |
-| Still        | `Renders`  | **nicely**  |
+| *Still*      | `Renders`  | **nicely**  |
 | 1            | 2          |3            |
 
 
