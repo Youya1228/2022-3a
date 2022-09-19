@@ -21,24 +21,8 @@
 - [ ] todo list
 - [x] done
 
-
-## 區塊:
-### Python code
-```python
-
-s = "Python syntax highlighting"
-print s
-
-```
-### javascript code
-```javascript
-
-var s = "javascript syntax highlighting";
-alert (s);
-
-```
-
-
+## 實作演練:
+### 文字
 >Emphasis, aka italics, with asterisks or underscores.
 >
 >Strong emphasis, aka bold, with asterisks or underscores.
@@ -65,6 +49,26 @@ alert (s);
   >>...* note 2
   >>
   >>*** note 3
+
+
+- [ ] todo list
+- [ ] 2nd things
+
+## 區塊:
+### Python code
+```python
+
+s = "Python syntax highlighting"
+print s
+
+```
+### javascript code
+```javascript
+
+var s = "javascript syntax highlighting";
+alert (s);
+
+```
 
 
 ## 表格:
