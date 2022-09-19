@@ -23,7 +23,7 @@
 
 ---
 
-## 實作演練:
+## 實作題:
 ### 文字
 
 >Emphasis, aka *italics*, with *asterisks* or *underscores.*
@@ -77,16 +77,16 @@ alert (s);
 
 ## 表格:
 
-| Tables       | Are            | Cool  |
+| **Tables**   | **Are**        | **Cool**|
 | :----------- |:--------------:| -----:|
 | col 3 is     | some wordy text| $1600 |
 | col 2 is     | centered       |   $12 |
 | Zebra stripes| are neat       |    $1 |
 
-| Markdown   | Less       | Pretty   |
-| :--------- |:-----------| :--------|
-| Still      | `Renders`  | nicely   |
-| 1          | 2          |3         |
+| **Markdown** | **Less**   | **Pretty**  |
+| :---------   |:-----------| :--------   |
+| Still        | `Renders`  | **nicely**  |
+| 1            | 2          |3            |
 
 
 ## 嵌入影片:
