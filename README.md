@@ -8,14 +8,15 @@
 
 
 ## Emoji:
-😴
+💻
+
 
 ## 圖片插入:
 ![NKUST](nkust.jpg "nkust")
 
 ## 嵌入影片:
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
->
+
 
 - [ ] todo list
 - [x] done
@@ -78,5 +79,8 @@ alert (s);
 | :----------- |:---------------| :--------|
 | Still        | `Renders`      | nicely   |
 | 1            | 2              |3         |
+
+
+[![Microservices + Events + Docker = A Perfect Trio](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Microservices + Events + Docker = A Perfect Trio")
 
 
