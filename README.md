@@ -1,5 +1,5 @@
 
-風格:
+## 風格:
 # 2022-3a C109118123
 ## 2022-3a C109118123
 ### 2022-3a C109118123
@@ -7,23 +7,33 @@
 ##### 2022-3a C109118123
 
 
-Emoji:
+## Emoji:
 😴
 
-
-圖片插入:
+## 圖片插入:
 ![NKUST](nkust.jpg "nkust")
 
+## 嵌入影片:
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+>
 
 - [ ] todo list
 - [x] done
 
 
-區塊:
+## 區塊:
+### Python code
 ```python
 
-s = "Python"
+s = "Python syntax highlighting"
 print s
+
+```
+### javascript code
+```javascript
+
+var s = "javascript syntax highlighting";
+alert (s);
 
 ```
 
@@ -56,7 +66,7 @@ print s
   >>*** note 3
 
 
-表格:
+## 表格:
 | Left-Aligned | Left-Aligned | Left-Aligned |
 | :----------- |:--------------:| -----:|
 | col 3 is     | some wordy text| $1600 |
@@ -64,9 +74,9 @@ print s
 | Zebra stripes| are neat       |    $1 |
 | test | 測試       |    $3333 |
 
-| Left-Aligned | Center Aligned | Right Aligned |
-| :----------- |:--------------:| -----:|
-| Still        | `Renders`      | nicely |
+| Left-Aligned | Left-Aligned   | Left-Aligned |
+| :----------- |:---------------| :--------|
+| Still        | `Renders`      | nicely   |
 | 1            | 2              |3         |
 
 
