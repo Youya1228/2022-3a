@@ -25,14 +25,14 @@
 
 ## 實作演練:
 ### 文字
-```
->Emphasis, aka italics, with asterisks or underscores.
+
+>Emphasis, aka *italics*, with *asterisks* or *underscores.*
 >
->Strong emphasis, aka bold, with asterisks or underscores.
+>Strong emphasis, aka bold, with **asterisks** or **underscores.**
 >
->Combined emphasis with asteriskd and underscores.
+>Combined emphasis with **asteriskd and underscores.**
 >
->Strikethrough uses two tildes. Scratch this.
+>Strikethrough uses two tildes. ~Scratch this.~
 
 ---
 
@@ -52,12 +52,12 @@
   >>...* note 2
   >>
   >>*** note 3
-```
 
-```
+
+## 框:
 - [ ] todo list
 - [ ] 2nd things
-```
+
 
 ## 區塊:
 ### Python code
@@ -76,22 +76,21 @@ alert (s);
 ```
 
 ## 表格:
-```
-| Left-Aligned | Left-Aligned | Left-Aligned |
+
+| Tables       | Are            | Cool  |
 | :----------- |:--------------:| -----:|
 | col 3 is     | some wordy text| $1600 |
 | col 2 is     | centered       |   $12 |
 | Zebra stripes| are neat       |    $1 |
-| test | 測試       |    $3333 |
 
-| Left-Aligned | Left-Aligned   | Left-Aligned |
-| :----------- |:---------------| :--------|
-| Still        | `Renders`      | nicely   |
-| 1            | 2              |3         |
-```
+| Markdown   | Less       | Pretty   |
+| :--------- |:-----------| :--------|
+| Still      | `Renders`  | nicely   |
+| 1          | 2          |3         |
+
 
 ## 嵌入影片:
-```
+
 [![Microservices + Events + Docker = A Perfect Trio](video.png)](https://www.youtube.com/watch?v=sSm2dRarhPo "Microservices + Events + Docker = A Perfect Trio")
-```
+
 
