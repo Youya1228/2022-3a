@@ -7,3 +7,8 @@
 😴
 
 ![NKUST](nkust.jpg "nkust")
+
+- [ ] todo list
+- [☆] done
+
+
